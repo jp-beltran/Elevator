@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0f41dc2b-8f7c-45f7-b6a0-e0ad5d054a19)# Projeto Elevador 🛗 ⬆️⬇️
+# Projeto Elevador 🛗 ⬆️⬇️
 ### Este projeto simula o funcionamento básico de um elevador com três andares. Ao clicar em um botão numérico, o elevador se desloca visualmente para o andar correspondente.
 
 ![image](https://github.com/user-attachments/assets/958b51b3-f072-470b-8ef9-2fa558abad88)
